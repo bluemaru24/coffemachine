@@ -1,0 +1,24 @@
+{
+  "name": "coffemachine",
+  "version": "1.0.0",
+  "description": "javascript project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluemaru24/coffemachine.git"
+  },
+  "keywords": [
+    "javascript",
+    "project"
+  ],
+  "author": "Bluemaru24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluemaru24/coffemachine/issues"
+  },
+  "homepage": "https://github.com/bluemaru24/coffemachine#readme"
+}
